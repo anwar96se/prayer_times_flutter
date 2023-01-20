@@ -69,3 +69,11 @@ proposed, three of which are described below.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## References
+
+* [PrayTimes.org](http://praytimes.org/calculation)
+* [Computing Approximate Solar Coordinates](https://aa.usno.navy.mil/faq/sun_approx)
+* [International Astronomical Center](https://www.astronomycenter.net/latitude.html)
+* [The Islamic Fiqh Council](https://ar.themwl.org/node/48)
