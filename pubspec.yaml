@@ -1,0 +1,19 @@
+name: prayer_times
+description: Islamic project aimed at providing a Dart library for calculating Muslim prayers times.
+version: 0.0.1
+homepage: https://github.com/anwar96se/prayer_times_flutter
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
