@@ -1,4 +1,4 @@
-import 'package:prayer_times/prayer_times.dart';
+import 'package:pray_times/pray_times.dart';
 
 main() {
   double latitude = 31.7775067;
